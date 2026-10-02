@@ -4,9 +4,9 @@ Finds the largest square of empty cells in a map of obstacles, in a single pass 
 
 ## About
 
-Epitech project (2021, first year). Given a text map made of empty cells (`.`) and obstacles (`o`), the program finds the biggest possible square that contains no obstacle and prints the map with that square filled with `x`. When several squares have the same size, the one closest to the top-left is chosen.
+Built in 2021. Given a text map made of empty cells (`.`) and obstacles (`o`), the program finds the biggest possible square that contains no obstacle and prints the map with that square filled with `x`. When several squares have the same size, the one closest to the top-left is chosen.
 
-The project was written under Epitech's constraints: C only, no standard string helpers (a custom `libmy` provides them), and strict coding style.
+The project was written under strict constraints: C only, no standard string helpers (a custom `libmy` provides them), and a strict coding style.
 
 ## Features
 
