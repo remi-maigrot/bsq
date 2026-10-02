@@ -1,0 +1,15 @@
+# Build output
+bsq
+*.o
+*.a
+lib/libmy.a
+
+# Debug
+vgcore.*
+*.gcno
+*.gcda
+
+# OS / editors
+.DS_Store
+.vscode/
+.idea/
